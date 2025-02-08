@@ -20,7 +20,7 @@ Your personal AI-powered code review agent that reviews Pull Request using OPEN 
 
 ## How to use it
 
-1. You'll need an OpenRouter API key with will use Meta LLAMA 3.3 for free. Most of them are paid models. Now, store it as a GitHub secret.
+1. You'll need an OpenRouter API key with which we will use Meta LLAMA 3.3 for free. Most of them are paid models. Now, store it as a GitHub secret.
 2. Go to GitHub Repo → Settings → Security → Secrets and Variables → Actions → Repository secrets.
 3. Add a new secret named `OPENROUTER_API_KEY`.
 4. Go to GitHub Repo → Settings → Code and automation → Actions → General → Workflow permissions
