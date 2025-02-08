@@ -1,4 +1,4 @@
-AI-powered code review agent using OpenAI SDK with OPEN ROUTER and GitHub Actions
+Your personal AI-powered code review agent that reviews Pull Request using OPEN ROUTER API and OpenAI SDK through GitHub Actions
 
 ## Features
 1. Detect security vulnerabilities using Open Router Models using OpenAI SDK.
